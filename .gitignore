@@ -219,4 +219,6 @@ zsdoc/data
 /tests/_output/*
 !/tests/_output/.gitkeep
 
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,macos,zsh
+my_settings.py
